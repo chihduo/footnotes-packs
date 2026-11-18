@@ -1,0 +1,2383 @@
+{
+ "id": "mintmania",
+ "name": "Mintmania",
+ "source": "https://stepmaniaonline.net/pack/2636",
+ "archive": {
+  "name": "Mintmania.zip",
+  "size": 172905994,
+  "sha256": "f3d8ca036c29c1d1be4b7ebd3ebe16bdb1b309622ad68c67b7ca3bb2a5acab1b"
+ },
+ "songs": [
+  {
+   "folder": "acssm",
+   "simfile": "acssm/ACSSM.sm",
+   "title": "Ai Chuu Seishin",
+   "subtitle": "Survivor MAX",
+   "artist": "DJ Kaltaro",
+   "bpm": "145–290",
+   "banner": "acssm/ACSSM.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 3,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "air",
+   "simfile": "air/air.sm",
+   "title": "Air",
+   "subtitle": "",
+   "artist": "Shiki",
+   "bpm": "178",
+   "banner": "air/air.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 12,
+     "description": "KB Edit"
+    }
+   ]
+  },
+  {
+   "folder": "angelchron",
+   "simfile": "angelchron/angelchr.sm",
+   "title": "Angel Chronicle",
+   "subtitle": "",
+   "artist": "Ryoko Shintani and Yukari Tamura",
+   "bpm": "151",
+   "banner": "angelchron/angelchr.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "angelsymph",
+   "simfile": "angelsymph/file.sm",
+   "title": "Angelic Symphony",
+   "subtitle": "-Cosmic Euro Mix-",
+   "artist": "Hiromi Sato",
+   "bpm": "60–160",
+   "banner": "angelsymph/angelsymph.PNG",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "barago",
+   "simfile": "barago/file.sm",
+   "title": "Baragoku Otome",
+   "subtitle": "",
+   "artist": "ALI PROJECT",
+   "bpm": "80–160",
+   "banner": "barago/bo.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 10,
+     "description": "KB Edit"
+    }
+   ]
+  },
+  {
+   "folder": "dokuro",
+   "simfile": "dokuro/file.sm",
+   "title": "Bokusatsu Tenshi Dokuro-chan",
+   "subtitle": "",
+   "artist": "Saeko Chiba",
+   "bpm": "170",
+   "banner": "dokuro/btdc.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "dokuroremix",
+   "simfile": "dokuroremix/file.sm",
+   "title": "Bokusatsu Tenshi Dokuro-chan",
+   "subtitle": "(Ruturie Mix)",
+   "artist": "Saeko Chiba",
+   "bpm": "85–170",
+   "banner": "dokuroremix/dokuroremix.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "bod",
+   "simfile": "bod/file.sm",
+   "title": "Border of Death",
+   "subtitle": "",
+   "artist": "3L",
+   "bpm": "80–160",
+   "banner": "bod/bod.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "bneworld",
+   "simfile": "bneworld/file.sm",
+   "title": "Brave New World",
+   "subtitle": "",
+   "artist": "Yuzo Koshiro, flair",
+   "bpm": "139",
+   "banner": "bneworld/bnw.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "daisuke",
+   "simfile": "daisuke/Daisuke.sm",
+   "title": "Daisuke",
+   "subtitle": "",
+   "artist": "Y&Co.",
+   "bpm": "157",
+   "banner": "daisuke/Daisuke-logo.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "DahrkDaiz"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "DahrkDaiz"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "DahrkDaiz"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Dahrkdaiz"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "DahrkDaiz"
+    }
+   ]
+  },
+  {
+   "folder": "dive2k6",
+   "simfile": "dive2k6/file.sm",
+   "title": "DIVE2006",
+   "subtitle": "",
+   "artist": "BeForU NEXT",
+   "bpm": "39–155",
+   "banner": "dive2k6/d2k6.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "dotabata",
+   "simfile": "dotabata/dotabata.sm",
+   "title": "Dotabata Angel Loop",
+   "subtitle": "",
+   "artist": "Angel-Tai",
+   "bpm": "134",
+   "banner": "dotabata/dotabata.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "eterblaze",
+   "simfile": "eterblaze/file.sm",
+   "title": "Eternal Blaze",
+   "subtitle": "",
+   "artist": "Nana Mizuki",
+   "bpm": "155",
+   "banner": "eterblaze/eb.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "fof",
+   "simfile": "fof/file.sm",
+   "title": "Face of Fact",
+   "subtitle": "",
+   "artist": "KOTOKO",
+   "bpm": "135",
+   "banner": "fof/fof.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "fofpsm",
+   "simfile": "fofpsm/pk.sm",
+   "title": "Face of Fact",
+   "subtitle": "(PARANOIA Survivor Mix)",
+   "artist": "DJ Kaltaro with 270 and KOTOKO",
+   "bpm": "135–270",
+   "banner": "fofpsm/pk.PNG",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "fofres",
+   "simfile": "fofres/file.sm",
+   "title": "Face of Fact",
+   "subtitle": "-resolution ver.-",
+   "artist": "KOTOKO",
+   "bpm": "135",
+   "banner": "fofres/fofres.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "fffff",
+   "simfile": "fffff/file.sm",
+   "title": "fffff",
+   "subtitle": "",
+   "artist": "Five Hammer",
+   "bpm": "138",
+   "banner": "fffff/fffff.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "gbbang",
+   "simfile": "gbbang/file.sm",
+   "title": "Galaxy Babanga Bang!",
+   "subtitle": "",
+   "artist": "Angel-Tai",
+   "bpm": "163",
+   "banner": "gbbang/gbb.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "goberzerk",
+   "simfile": "goberzerk/gb.sm",
+   "title": "Go Berzerk",
+   "subtitle": "",
+   "artist": "Scott Brown",
+   "bpm": "172",
+   "banner": "goberzerk/gb.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 11,
+     "description": "Oni v.1"
+    }
+   ]
+  },
+  {
+   "folder": "godknows",
+   "simfile": "godknows/file.sm",
+   "title": "God Knows...",
+   "subtitle": "(DJ Bouche Euro Mix)",
+   "artist": "Aya Hirano",
+   "bpm": "160",
+   "banner": "godknows/godknows.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 13,
+     "description": "KB Edit"
+    }
+   ]
+  },
+  {
+   "folder": "gradiusfullspeed",
+   "simfile": "gradiusfullspeed/gradiusfullspeed.sm",
+   "title": "Gradius",
+   "subtitle": "-Full Speed-",
+   "artist": "Mr.T",
+   "bpm": "160–220",
+   "banner": "gradiusfullspeed/gradiusfullspeed-bn.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "cpubasic13"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 2,
+     "description": "cpubasic13"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "cpubasic13"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "cpubasic13"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "cpubasic13"
+    }
+   ]
+  },
+  {
+   "folder": "healmon",
+   "simfile": "healmon/hm.sm",
+   "title": "Healing Monolith",
+   "subtitle": "",
+   "artist": "DJ Kaltaro with 2MB and Affinity",
+   "bpm": "49–196",
+   "banner": "healmon/hm.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "hvgm",
+   "simfile": "hvgm/file.sm",
+   "title": "Healing Vision",
+   "subtitle": "(Gridlok Mix)",
+   "artist": "DE-SIRE",
+   "bpm": "49–196",
+   "banner": "hvgm/hvgm.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "higu",
+   "simfile": "higu/file.sm",
+   "title": "Higurashi no Naku Koro ni",
+   "subtitle": "",
+   "artist": "Eiko Shimamiya",
+   "bpm": "105",
+   "banner": "higu/higurashi.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "higu-blgm",
+   "simfile": "higu-blgm/higugroove.sm",
+   "title": "Higurashi no Naku Koro ni",
+   "subtitle": "(Bloody Lolita Groove Mix)",
+   "artist": "DJ Xelamint",
+   "bpm": "126",
+   "banner": "higu-blgm/higurashi.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "jackspin",
+   "simfile": "jackspin/file.sm",
+   "title": "Jack Spinnaz",
+   "subtitle": "",
+   "artist": "DJ Kaltaro with Three Six Mafia and DesQ",
+   "bpm": "116",
+   "banner": "jackspin/jackspinnaz.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-double",
+     "index": 0,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": ""
+    },
+    {
+     "type": "dance-double",
+     "index": 1,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": ""
+    },
+    {
+     "type": "dance-double",
+     "index": 2,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": ""
+    }
+   ]
+  },
+  {
+   "folder": "kamui",
+   "simfile": "kamui/kamui.sm",
+   "title": "Kamui",
+   "subtitle": "-Instrumental Edit-",
+   "artist": "Chobits",
+   "bpm": "70–140",
+   "banner": "kamui/kamui.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "kinjiaso",
+   "simfile": "kinjiaso/file.sm",
+   "title": "Kinjirareta Asobi",
+   "subtitle": "",
+   "artist": "ALI PROJECT",
+   "bpm": "60–121",
+   "banner": "kinjiaso/ka.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "legendpharaoh",
+   "simfile": "legendpharaoh/Legendary WWW Area.sm",
+   "title": "Legendary WWW Area (PharaohMan)",
+   "subtitle": "(from Megaman Battle Network Transmission)",
+   "artist": "Shinji Hosoe",
+   "bpm": "122",
+   "banner": "legendpharaoh/legendw3area.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Kilgamayam"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Kilgamayan"
+    }
+   ]
+  },
+  {
+   "folder": "lostmymusic",
+   "simfile": "lostmymusic/Lost my music.sm",
+   "title": "Lost my music",
+   "subtitle": "",
+   "artist": "Aya Hirano",
+   "bpm": "200",
+   "banner": "lostmymusic/lmm.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Koiyuki & Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Koiyuki"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Koiyuki"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Koiyuki & Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Koiyuki & Mint"
+    }
+   ]
+  },
+  {
+   "folder": "mahoro300",
+   "simfile": "mahoro300/file.sm",
+   "title": "Mahoro de MAX 300",
+   "subtitle": "",
+   "artist": "DJ Kaltaro",
+   "bpm": "300",
+   "banner": "mahoro300/mahoro300.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "msmagic",
+   "simfile": "msmagic/file.sm",
+   "title": "Maji Suki Magic",
+   "subtitle": "",
+   "artist": "CLOVER",
+   "bpm": "50–150",
+   "banner": "msmagic/msm.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "marisa",
+   "simfile": "marisa/file.sm",
+   "title": "Marisa Stole the Precious Thing",
+   "subtitle": "",
+   "artist": "Karin Fujisaki",
+   "bpm": "170",
+   "banner": "marisa/mstpt.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 10,
+     "description": "r21 Edit"
+    },
+    {
+     "type": "dance-single",
+     "index": 6,
+     "difficulty": "Edit",
+     "meter": 11,
+     "description": "KB Edit 1"
+    },
+    {
+     "type": "dance-single",
+     "index": 7,
+     "difficulty": "Edit",
+     "meter": 13,
+     "description": "KB Edit 2"
+    }
+   ]
+  },
+  {
+   "folder": "marisa-pt2",
+   "simfile": "marisa-pt2/file.sm",
+   "title": "Marisa Stole the Precious Thing",
+   "subtitle": "Part II",
+   "artist": "Karin Fujisaki",
+   "bpm": "170",
+   "banner": "marisa-pt2/touhou.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "necrofan",
+   "simfile": "necrofan/file.sm",
+   "title": "Necro fantasia",
+   "subtitle": "",
+   "artist": "Onoken",
+   "bpm": "71–142",
+   "banner": "necrofan/necrofan.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Letty Whiterock"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Letty Whiterock"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Letty Whiterock"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Letty Whiterock"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Letty Whiterock"
+    }
+   ]
+  },
+  {
+   "folder": "1d1d",
+   "simfile": "1d1d/1d1d.sm",
+   "title": "One Day, One Dream",
+   "subtitle": "[Inuyasha 5th OP Theme]",
+   "artist": "Tsubasa and Tackey",
+   "bpm": "19–160",
+   "banner": "1d1d/1d1d-bn.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Hiryuu"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Hiryuu"
+    }
+   ]
+  },
+  {
+   "folder": "parahrx",
+   "simfile": "parahrx/PARANOiA HRX.sm",
+   "title": "PARANOiA HRX",
+   "subtitle": "",
+   "artist": "HiROKEY",
+   "bpm": "190",
+   "banner": "parahrx/PARANOiA HRX.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 3,
+     "description": "Kewing DarkSun"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Kewing DarkSun"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Kewing DarkSun"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Kewing DarkSun"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Kewing DarkSun"
+    }
+   ]
+  },
+  {
+   "folder": "pedo",
+   "simfile": "pedo/pedo.sm",
+   "title": "PEd0PHiLiA",
+   "subtitle": "",
+   "artist": "NAOKI-ahya-nderground",
+   "bpm": "176",
+   "banner": "pedo/pedo.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint?"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "rotfwo",
+   "simfile": "rotfwo/file.sm",
+   "title": "Release of the Far West Ocean",
+   "subtitle": "",
+   "artist": "Falcom Sound Team JDK",
+   "bpm": "65–130",
+   "banner": "rotfwo/rotfwo.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "rislim",
+   "simfile": "rislim/rislim.sm",
+   "title": "rislim",
+   "subtitle": "",
+   "artist": "ric",
+   "bpm": "65–130",
+   "banner": "rislim/rislim.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "rislimdropout",
+   "simfile": "rislimdropout/file.sm",
+   "title": "rislim",
+   "subtitle": "(DROP OUT Style)",
+   "artist": "DJ Kaltaro with ric and NW260",
+   "bpm": "65–260",
+   "banner": "rislimdropout/rislimdropout.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "seiryo",
+   "simfile": "seiryo/file.sm",
+   "title": "Seishoujo Ryouiki",
+   "subtitle": "",
+   "artist": "ALI PROJECT",
+   "bpm": "137",
+   "banner": "seiryo/sr.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "seiryo-dgm",
+   "simfile": "seiryo-dgm/file.sm",
+   "title": "Seishoujo Ryouiki",
+   "subtitle": "(Distortion Guitar Mix)",
+   "artist": "ALI PROJECT feat. hayatebune",
+   "bpm": "68–137",
+   "banner": "seiryo-dgm/sr.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Dream Traveler Klonoa"
+    }
+   ]
+  },
+  {
+   "folder": "sweetmagic",
+   "simfile": "sweetmagic/file.sm",
+   "title": "Sweet Magic",
+   "subtitle": "",
+   "artist": "Magical Sweets",
+   "bpm": "61–122",
+   "banner": "sweetmagic/sm.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Dream Traveler Klonoa"
+    }
+   ]
+  },
+  {
+   "folder": "tmas",
+   "simfile": "tmas/tell me a story.sm",
+   "title": "Tell Me A Story",
+   "subtitle": "",
+   "artist": "SuperGreenX",
+   "bpm": "63–127",
+   "banner": "tmas/tmas.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Valex"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 2,
+     "description": "Valex"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Valex"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Valex"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Valex"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 10,
+     "description": "Mint's Tale"
+    }
+   ]
+  },
+  {
+   "folder": "grimalice",
+   "simfile": "grimalice/file.sm",
+   "title": "The Grimoire For Alice",
+   "subtitle": "",
+   "artist": "dBu music",
+   "bpm": "?",
+   "banner": "grimalice/tgfa.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 13,
+     "description": "Kilgamayan w/ Mint"
+    }
+   ]
+  },
+  {
+   "folder": "irony",
+   "simfile": "irony/ironyofchaste.sm",
+   "title": "The Irony of Chaste",
+   "subtitle": "",
+   "artist": "Guilty Gear Isuka",
+   "bpm": "127–254",
+   "banner": "irony/irony.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 11,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 5,
+     "difficulty": "Edit",
+     "meter": 11,
+     "description": "ITG Edit"
+    }
+   ]
+  },
+  {
+   "folder": "wpit",
+   "simfile": "wpit/WHAT PLANET IS THIS.sm",
+   "title": "WHAT PLANET IS THIS?!",
+   "subtitle": "",
+   "artist": "The Seatbelts",
+   "bpm": "12–153",
+   "banner": "wpit/What Planet Is This.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Toph"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 6,
+     "description": "Toph"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": "Toph"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": "Toph"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 12,
+     "description": "Toph"
+    },
+    {
+     "type": "dance-double",
+     "index": 0,
+     "difficulty": "Easy",
+     "meter": 5,
+     "description": ""
+    },
+    {
+     "type": "dance-double",
+     "index": 1,
+     "difficulty": "Medium",
+     "meter": 8,
+     "description": ""
+    },
+    {
+     "type": "dance-double",
+     "index": 2,
+     "difficulty": "Hard",
+     "meter": 10,
+     "description": ""
+    }
+   ]
+  },
+  {
+   "folder": "wstory",
+   "simfile": "wstory/file.sm",
+   "title": "Wonderstory",
+   "subtitle": "",
+   "artist": "Pink Bambi Band feat. Ryoko Shintani",
+   "bpm": "180",
+   "banner": "wstory/wonderstory.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Dream Traveler Klonoa"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Trick Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "you",
+   "simfile": "you/file.sm",
+   "title": "YOU",
+   "subtitle": "",
+   "artist": "YURIA",
+   "bpm": "130",
+   "banner": "you/you.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 1,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 3,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 5,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 7,
+     "description": "Trick Master Mint"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Shuffle Master Mint"
+    }
+   ]
+  },
+  {
+   "folder": "yuumono",
+   "simfile": "yuumono/Yuujou Monogatari.sm",
+   "title": "Yuujou Monogatari",
+   "subtitle": "",
+   "artist": "Aice5",
+   "bpm": "184",
+   "banner": "yuumono/ym.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 7,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 9,
+     "description": "Kilgamayan"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 10,
+     "description": "Kilgamayan"
+    }
+   ]
+  },
+  {
+   "folder": "guriguri",
+   "simfile": "guriguri/guriguri.sm",
+   "title": "グリグリ",
+   "subtitle": "",
+   "artist": "Milktub",
+   "bpm": "188",
+   "banner": "guriguri/guriguri.png",
+   "charts": [
+    {
+     "type": "dance-single",
+     "index": 0,
+     "difficulty": "Beginner",
+     "meter": 2,
+     "description": "Snowcrafta"
+    },
+    {
+     "type": "dance-single",
+     "index": 1,
+     "difficulty": "Easy",
+     "meter": 4,
+     "description": "Snowcrafta"
+    },
+    {
+     "type": "dance-single",
+     "index": 2,
+     "difficulty": "Medium",
+     "meter": 6,
+     "description": "Snowcrafta"
+    },
+    {
+     "type": "dance-single",
+     "index": 3,
+     "difficulty": "Hard",
+     "meter": 8,
+     "description": "Snowcrafta"
+    },
+    {
+     "type": "dance-single",
+     "index": 4,
+     "difficulty": "Challenge",
+     "meter": 9,
+     "description": "Snowcrafta"
+    }
+   ]
+  }
+ ]
+}

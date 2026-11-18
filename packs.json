@@ -1,0 +1,12 @@
+{
+ "packs": [
+  {
+   "id": "mintmania",
+   "name": "Mintmania",
+   "songs": 52,
+   "charts": 257,
+   "index": "mintmania/index.json",
+   "source": "https://stepmaniaonline.net/pack/2636"
+  }
+ ]
+}
